@@ -765,3 +765,4 @@ F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.
 F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
 F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.exe
 F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csprojResolveAssemblyReference.cache

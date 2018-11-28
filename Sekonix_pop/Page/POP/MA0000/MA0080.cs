@@ -2458,8 +2458,6 @@ namespace Sekonix_pop.Page.POP.MA0000
             {
                 pnlPW.Visible = true;
 
-
-
                 if (txtPW.Text.ToUpper() == txtValue.ToUpper())
                 {
                     txtPW.Text = "";
