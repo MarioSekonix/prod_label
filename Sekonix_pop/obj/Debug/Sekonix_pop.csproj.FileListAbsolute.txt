@@ -1,0 +1,767 @@
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\BarcodeLib.dll
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Chart.4.dll
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Chart3D.4.dll
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Editor.4.dll
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1GanttView.4.dll
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Input.4.dll
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Schedule.4.dll
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1SplitContainer.4.dll
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\LPT_DLL.dll
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\System.Deployment.dll
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Chart.4.xml
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Chart3D.4.xml
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Editor.4.xml
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1GanttView.4.xml
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Input.4.xml
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Schedule.4.xml
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1SplitContainer.4.xml
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\COMMON.frmConfirm.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0040.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0030.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0020.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.POP.MA0000.frmPup.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.LU0000.LU0010.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.POP.MA0000.LU0010_PP.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.LU0100.LU0110.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.LU0100.LU0200.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0010.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PP0410.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PP0430.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0000.PP0010.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0000.PU0040PP.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0000.PU0060PP.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0000.PU0010.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0000.PU0020.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0000.PU0030.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0000.PU0040.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0000.PU0050.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0000.PU0060.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0000.PP0020.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0000.PU0050PP.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0100.frmWorkPage.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0100.PU0110.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0100.PU0120.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0100.PU0120_PP.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0100.PU0210.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0200.PU0220.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0200.PU0220PP.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0200.PU0230.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0200.PU0230PP.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0410.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.QU0200.QU0210.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SPC.QU0000.QU0010.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SPC.QU0000.QU0010PP.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SPC.QU0000.QU0020.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SPC.QU0000.QU0030.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SPC.QU0000.QU0040.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SPC.QU0000.QU0050.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SPC.QU0000.QU0060.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Form1.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.etc.SU0060.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Program.SU0070.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Program.SU0020.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Program.SU0040.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Program.SU0050.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.exe.licenses
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\Mono.Security.dll
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\Npgsql.dll
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.PU0000.PP0030.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\Resources\1.png
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.SM0000.SM0020.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.SM0000.SM0010.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.LU0100.LU0300.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.SM0000.SM0030_P.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.QU0200.QU0220.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0050.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.SM0000.SM0040.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.SM0000.SM0050.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.SM0000.SM0060.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.LA0000.LA0010.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.M270.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.Barcode.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\App.config
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.csprojResolveAssemblyReference.cache
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.SM0000.SM0070.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.ModalForm.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0060.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.M302.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.M421.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1FlexGrid.4.xml
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0070.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.LU0100.LU0400.resources
+C:\PROJECT\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.LU0100.LU0400PP.resources
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\Resources\1.png
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\App.config
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\BarcodeLib.dll
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Chart.4.dll
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Chart3D.4.dll
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Editor.4.dll
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1GanttView.4.dll
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Input.4.dll
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Schedule.4.dll
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1SplitContainer.4.dll
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\LPT_DLL.dll
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\Mono.Security.dll
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\Npgsql.dll
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\System.Deployment.dll
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Chart.4.xml
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Chart3D.4.xml
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Editor.4.xml
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1FlexGrid.4.xml
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1GanttView.4.xml
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Input.4.xml
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Schedule.4.xml
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1SplitContainer.4.xml
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.csprojResolveAssemblyReference.cache
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\obj\Debug\COMMON.frmConfirm.resources
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0050.resources
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0070.resources
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.exe.licenses
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\PROJECT\POLAND\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\Resources\1.png
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\App.config
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\BarcodeLib.dll
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\LPT_DLL.dll
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\Mono.Security.dll
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\Npgsql.dll
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\System.Deployment.dll
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Chart.4.xml
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Chart3D.4.xml
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Editor.4.xml
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1FlexGrid.4.xml
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1GanttView.4.xml
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Input.4.xml
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Schedule.4.xml
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1SplitContainer.4.xml
+C:\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.csprojResolveAssemblyReference.cache
+C:\SEKONIX_MES\Sekonix_pop\obj\Debug\COMMON.frmConfirm.resources
+C:\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0050.resources
+C:\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0070.resources
+C:\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+C:\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+C:\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+C:\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+C:\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+C:\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+C:\SEKONIX_MES\Sekonix_pop\obj\Debug\Sekonix_pop.exe.licenses
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Chart.4.dll
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Chart3D.4.dll
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Editor.4.dll
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1GanttView.4.dll
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Input.4.dll
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1Schedule.4.dll
+C:\SEKONIX_MES\Sekonix_pop\bin\Debug\C1.Win.C1SplitContainer.4.dll
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.csprojResolveAssemblyReference.cache
+C:\SOURCE_BACKUP\Sekonix_pop\obj\Debug\COMMON.frmConfirm.resources
+C:\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0050.resources
+C:\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0070.resources
+C:\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+C:\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+C:\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+C:\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+C:\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+C:\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+C:\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.exe.licenses
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\Resources\1.png
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\App.config
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\BarcodeLib.dll
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Chart.4.dll
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Chart3D.4.dll
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Editor.4.dll
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1GanttView.4.dll
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Input.4.dll
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Schedule.4.dll
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1SplitContainer.4.dll
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\LPT_DLL.dll
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\Mono.Security.dll
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\Npgsql.dll
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\System.Deployment.dll
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Chart.4.xml
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Chart3D.4.xml
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Editor.4.xml
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1FlexGrid.4.xml
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1GanttView.4.xml
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Input.4.xml
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Schedule.4.xml
+C:\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1SplitContainer.4.xml
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\Resources\1.png
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\App.config
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\BarcodeLib.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Chart.4.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Chart3D.4.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Editor.4.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1GanttView.4.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Input.4.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Schedule.4.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1SplitContainer.4.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\LPT_DLL.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\Mono.Security.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\Npgsql.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\System.Deployment.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Chart.4.xml
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Chart3D.4.xml
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Editor.4.xml
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1GanttView.4.xml
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Input.4.xml
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1Schedule.4.xml
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\bin\Debug\C1.Win.C1SplitContainer.4.xml
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\obj\Debug\COMMON.frmConfirm.resources
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0050.resources
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0070.resources
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080_PP.resources
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+C:\PROJECT\POLAND\POLAND_PRODLABEL\SOURCE_BACKUP\Sekonix_pop\obj\Debug\Sekonix_pop.exe.licenses
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\Resources\1.png
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\App.config
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\BarcodeLib.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\C1.Win.C1Chart.4.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\C1.Win.C1Chart3D.4.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\C1.Win.C1Editor.4.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\C1.Win.C1GanttView.4.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\C1.Win.C1Input.4.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\C1.Win.C1Schedule.4.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\C1.Win.C1SplitContainer.4.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\LPT_DLL.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\Mono.Security.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\Npgsql.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\System.Deployment.dll
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\C1.Win.C1Chart.4.xml
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\C1.Win.C1Chart3D.4.xml
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\C1.Win.C1Editor.4.xml
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\C1.Win.C1GanttView.4.xml
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\C1.Win.C1Input.4.xml
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\C1.Win.C1Schedule.4.xml
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\C1.Win.C1SplitContainer.4.xml
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\COMMON.frmConfirm.resources
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0050.resources
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0070.resources
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080_PP.resources
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+C:\PROJECT\POLAND\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.exe.licenses
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\Resources\1.png
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\App.config
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\BarcodeLib.dll
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\LPT_DLL.dll
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\Mono.Security.dll
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\Npgsql.dll
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\bin\Debug\System.Deployment.dll
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0050.resources
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0070.resources
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080_PP.resources
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+C:\MES\POLAND_PRODLABEL_LED\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0050.resources
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0070.resources
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080_PP.resources
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\Resources\1.png
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\App.config
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\BarcodeLib.dll
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\C1.Win.C1FlexGrid.4.dll
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\C1.Win.C1Input.4.dll
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\LPT_DLL.dll
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\Mono.Security.dll
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\Npgsql.dll
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\System.Deployment.dll
+C:\PROJECT\POLAND_MES\3차\LED 제품라벨\Sekonix_pop\bin\Debug\C1.Win.C1Input.4.xml
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\bin\Debug\Resources\1.png
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\bin\Debug\App.config
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\bin\Debug\BarcodeLib.dll
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\bin\Debug\LPT_DLL.dll
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\bin\Debug\Mono.Security.dll
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\bin\Debug\Npgsql.dll
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Deployment.dll
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0050.resources
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0070.resources
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080_PP.resources
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+C:\Projects\MES_POLAND\LED\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0090.resources
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\bin\Debug\Resources\1.png
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\bin\Debug\App.config
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\bin\Debug\BarcodeLib.dll
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\bin\Debug\LPT_DLL.dll
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\bin\Debug\Mono.Security.dll
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\bin\Debug\Npgsql.dll
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Deployment.dll
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080_PP.resources
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+C:\Projects\MES_POLAND\LED-teback\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\bin\Debug\Resources\1.png
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\bin\Debug\App.config
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\bin\Debug\BarcodeLib.dll
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\bin\Debug\LPT_DLL.dll
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\bin\Debug\Mono.Security.dll
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\bin\Debug\Npgsql.dll
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Deployment.dll
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080_PP.resources
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+C:\Projects\MES_POLAND\조립라인 LABEL_바코드 출력_20180703\POLAND_MES\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+F:\장명길\LABEL\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+F:\장명길\LABEL\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+F:\장명길\LABEL\LED-TM-L54V\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\Resources\1.png
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\App.config
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\BarcodeLib.dll
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\LPT_DLL.dll
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\Mono.Security.dll
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\Npgsql.dll
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Deployment.dll
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csprojResolveAssemblyReference.cache
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080_PP.resources
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+C:\SEKONIX_MES\LED_BOX_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+C:\LED_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\LED_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\LED_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\bin\Debug\Resources\1.png
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\bin\Debug\App.config
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\bin\Debug\BarcodeLib.dll
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\bin\Debug\LPT_DLL.dll
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\bin\Debug\Mono.Security.dll
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\bin\Debug\Npgsql.dll
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Deployment.dll
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080_PP.resources
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+C:\LED_LABEL_LTS600\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Resources\1.png
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\App.config
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\BarcodeLib.dll
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\LPT_DLL.dll
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Mono.Security.dll
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Npgsql.dll
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Deployment.dll
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080_PP.resources
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+F:\장명길\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Resources\1.png
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\App.config
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\BarcodeLib.dll
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\LPT_DLL.dll
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Mono.Security.dll
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Npgsql.dll
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Deployment.dll
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080_PP.resources
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\POLAND_LABEL_PRINT\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Resources\1.png
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\App.config
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\BarcodeLib.dll
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\LPT_DLL.dll
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Mono.Security.dll
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Npgsql.dll
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Deployment.dll
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080_PP.resources
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+E:\장명길\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080_PP.resources
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\Resources\1.png
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\App.config
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\BarcodeLib.dll
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\LPT_DLL.dll
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\Mono.Security.dll
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\Npgsql.dll
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+C:\Projects\MES_POLAND\조립공정\LEC_L54V_LABEL\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Deployment.dll
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Resources\1.png
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\App.config
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\BarcodeLib.dll
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\LPT_DLL.dll
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Mono.Security.dll
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Npgsql.dll
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Deployment.dll
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csprojResolveAssemblyReference.cache
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080_PP.resources
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+C:\LED_LABEL_PRINT\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+C:\MES\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\MES\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\MES\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\MES\LED_PRODLABEL\Sekonix_pop\bin\Debug\Resources\1.png
+C:\MES\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+C:\MES\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+C:\MES\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+C:\MES\LED_PRODLABEL\Sekonix_pop\bin\Debug\App.config
+C:\MES\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+C:\MES\LED_PRODLABEL\Sekonix_pop\bin\Debug\BarcodeLib.dll
+C:\MES\LED_PRODLABEL\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\MES\LED_PRODLABEL\Sekonix_pop\bin\Debug\LPT_DLL.dll
+C:\MES\LED_PRODLABEL\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+C:\MES\LED_PRODLABEL\Sekonix_pop\bin\Debug\Mono.Security.dll
+C:\MES\LED_PRODLABEL\Sekonix_pop\bin\Debug\Npgsql.dll
+C:\MES\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+C:\MES\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+C:\MES\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Deployment.dll
+C:\MES\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+C:\MES\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080_PP.resources
+C:\MES\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+C:\MES\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+C:\MES\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+C:\MES\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+C:\MES\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+C:\MES\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Resources\1.png
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\App.config
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\BarcodeLib.dll
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\LPT_DLL.dll
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Mono.Security.dll
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Npgsql.dll
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Deployment.dll
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080_PP.resources
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+G:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Resources\1.png
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\App.config
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\BarcodeLib.dll
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\LPT_DLL.dll
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Mono.Security.dll
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Npgsql.dll
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Deployment.dll
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080_PP.resources
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
+C:\Users\Boss\Desktop\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csprojResolveAssemblyReference.cache
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Resources\1.png
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\chart.xlsx
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\JOB_ORDER.xlsx
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\EXCEL\Xbar R차트.xlsx
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\App.config
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe.config
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.exe
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Sekonix_pop.pdb
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\BarcodeLib.dll
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\BusinessRefinery.Barcode.Win.dll
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\LPT_DLL.dll
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Microsoft.CSharp.dll
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Mono.Security.dll
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\Npgsql.dll
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.DataSetExtensions.dll
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Data.OracleClient.dll
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\bin\Debug\System.Deployment.dll
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080.resources
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.POP.MA0000.MA0080_PP.resources
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Information.resources
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Page.SYS.Main.Login.resources
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Main.resources
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.Properties.Resources.resources
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.csproj.GenerateResource.Cache
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.exe
+F:\labelki z printem\LED_PRODLABEL\Sekonix_pop\obj\Debug\Sekonix_pop.pdb
